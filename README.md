@@ -1,7 +1,8 @@
 # Hi, I'm Eva Wyatt 👋
 
 **QA Manager | Release Governance | Test Automation | AI Governance & GRC**
-Houston, Texas
+
+📍 Houston, Texas
 
 I don't trust a control until I've seen it work. That's been true my whole career in quality assurance.
 
@@ -15,9 +16,9 @@ I don't trust a control until I've seen it work. That's been true my whole caree
 
 ## Tools I work with
 
-**Testing:** Selenium · Playwright · Cucumber / Gherkin · Postman · SoapUI · BrowserStack
-**Delivery:** Jira · Confluence · Azure DevOps · TestRail · GitLab CI/CD · Agile / Scrum
-**Data & AI:** SQL · Python · Claude Code
+**Testing:** Selenium · Playwright · Cucumber / Gherkin · Postman · SoapUI · BrowserStack  
+**Delivery:** Jira · Confluence · Azure DevOps · TestRail · GitLab CI/CD · Agile / Scrum  
+**Data & AI:** SQL · Python · Claude Code  
 **Governance:** NIST AI RMF 1.0 · NIST AI 600-1 · HIPAA · HITECH · GDPR · PCI DSS · Privacy Impact Assessments
 
 ## Education
