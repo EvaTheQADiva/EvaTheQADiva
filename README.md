@@ -14,6 +14,11 @@ I don't trust a control until I've seen it work. That's been true my whole caree
 - **Guardrails for AI-generated code.** I was the human approval gate for AI-generated code under AWS AIDLC and wrote the QA standards it had to meet.
 - **AI skills in Claude Code.** I built skills that sped up test migration and bug and story creation.
 
+## Projects
+
+- **[QA Leadership Toolkit](https://github.com/EvaTheQADiva/Professional-Work/tree/main/qa-leadership-toolkit)**: the templates I use to run QA, starting with my [Release Go/No-Go Checklist](https://github.com/EvaTheQADiva/Professional-Work/blob/main/qa-leadership-toolkit/release-go-no-go-checklist.md) and the lessons behind it.
+- More on the way: QA AI skills, a GRC case study, and an AI governance review. See [Professional Work](https://github.com/EvaTheQADiva/Professional-Work).
+
 ## Tools I work with
 
 **Testing:** Selenium · Playwright · Cucumber / Gherkin · Postman · SoapUI · BrowserStack  
