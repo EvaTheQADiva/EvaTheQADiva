@@ -1,8 +1,8 @@
-# Hi, I'm Eva Wyatt 👋
+# Hi, I'm Eva Wyatt 
 
 **QA Manager | Release Governance | Test Automation | AI Governance & GRC**
 
-📍 Houston, Texas
+Houston, Texas
 
 I don't trust a control until I've seen it work. That's been true my whole career in quality assurance.
 
