@@ -17,6 +17,7 @@ I don't trust a control until I've seen it work. That's been true my whole caree
 ## Projects
 
 - **[QA Leadership Toolkit](https://github.com/EvaTheQADiva/Professional-Work/tree/main/qa-leadership-toolkit)**: the templates I use to run QA, starting with my [Release Go/No-Go Checklist](https://github.com/EvaTheQADiva/Professional-Work/blob/main/qa-leadership-toolkit/release-go-no-go-checklist.md) and the lessons behind it.
+- **[Access Controls, Tested Like Test Cases](https://github.com/EvaTheQADiva/Professional-Work/blob/main/security-controls/access-controls-tested-like-test-cases.md)**: ten NIST SP 800-53 controls written as Given/When/Then tests, with the evidence that proves them and lessons from real work.
 - More on the way: QA AI skills, a GRC case study, and an AI governance review. See [Professional Work](https://github.com/EvaTheQADiva/Professional-Work).
 
 ## Tools I work with
